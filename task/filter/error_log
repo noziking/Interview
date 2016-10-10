@@ -1,0 +1,1 @@
+[30-Sep-2016 09:35:24 Etc/GMT] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'curveva4_raghu'@'localhost' to database 'curveva4_asp' in /home/curveva4/public_html/amarjeet/filter/db.php on line 1
